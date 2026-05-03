@@ -261,3 +261,11 @@ desktop.ini
 *.tar.gz
 *.rar
 *.7z
+*.env
+.env
+api/keys/
+secrets/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
